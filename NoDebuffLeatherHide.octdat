@@ -1,0 +1,71 @@
+//
+//Skin Boots
+{
+	id Oct.Items.Armor.Skins.Boots
+	type InstancedItemTypeGenerator
+    staticBuffs = 
+    [
+        {
+            type StatMultiplierInstancedItemStaticBuff
+            statName = MoveSpeed
+            multiplier = 1.02
+            good = true
+        }
+    ]
+	}
+	//
+	{
+	id Oct.Items.Armor.Skins.Cuirass
+	type InstancedItemTypeGenerator
+	staticBuffs = 
+    [
+        {
+            type StatMultiplierInstancedItemStaticBuff
+            statName = MoveSpeed
+            multiplier = 1.03
+            good = true
+        }
+    ]
+	}
+	//Gloves
+		{
+	id Oct.Items.Armor.Skins.Gauntlets
+	type InstancedItemTypeGenerator
+	staticBuffs = 
+    [
+        {
+            type StatMultiplierInstancedItemStaticBuff
+            statName = MoveSpeed
+            multiplier = 1.02
+            good = true
+        }
+    ]
+	}
+	//Pants
+			{
+	id Oct.Items.Armor.Skins.Greaves
+	type InstancedItemTypeGenerator
+	staticBuffs = 
+    [
+        {
+            type StatMultiplierInstancedItemStaticBuff
+            statName = MoveSpeed
+            multiplier = 1.03
+            good = true
+        }
+    ]
+	}
+	//Helmet
+				{
+	id Oct.Items.Armor.Skins.Helmet
+	type InstancedItemTypeGenerator
+	staticBuffs = 
+    [
+        {
+            type StatMultiplierInstancedItemStaticBuff
+            statName = MoveSpeed
+            multiplier = 1.01
+            good = true
+        }
+    ]
+	}
